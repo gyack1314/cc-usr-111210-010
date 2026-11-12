@@ -1,0 +1,18 @@
+{
+  "source": {
+    "path": "export.events",
+    "bytes": 726,
+    "sha256": "fedad53416c7426a237d1f935d8e4465ee82585d3d4217b8189cf93ee451ac5e"
+  },
+  "chunk_size": 1,
+  "columns": [
+    "order",
+    "service",
+    "note"
+  ],
+  "object_version": "demo-20261111",
+  "request_sha256": "446f15786fd0d433beeed790f2ba8b8c1a61bf279bef11f0d3ed4437f39ca9ed",
+  "max_message_bytes": 1048576,
+  "max_row_bytes": 1048576,
+  "stats_namespace": "urn:shop:stats"
+}

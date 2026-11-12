@@ -1,0 +1,18 @@
+{
+  "source": {
+    "path": "duplicate-end.events",
+    "bytes": 782,
+    "sha256": "0c4e1ab446d0acb41c75bc882aa2f62bc2133706ef15e2c9d4ebcb9b901343bf"
+  },
+  "chunk_size": 5,
+  "columns": [
+    "order",
+    "service",
+    "note"
+  ],
+  "object_version": "demo-20261111",
+  "request_sha256": "446f15786fd0d433beeed790f2ba8b8c1a61bf279bef11f0d3ed4437f39ca9ed",
+  "max_message_bytes": 1048576,
+  "max_row_bytes": 1048576,
+  "stats_namespace": "urn:shop:stats"
+}
